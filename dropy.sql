@@ -1,0 +1,11 @@
+DROP TABLE Odznaczenia;
+DROP TABLE Aresztowania;
+DROP TABLE Notowani;
+DROP TABLE W_sprawie;
+DROP TABLE Przestepstwa;
+DROP TABLE Dowody;
+DROP TABLE Zgloszenia;
+DROP TABLE Kontrakty;
+DROP TABLE Policjanci;
+DROP TABLE Komisariaty;
+DROP TABLE Miejscowosci;
